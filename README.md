@@ -147,16 +147,6 @@ So I designed and built it myself, from product planning to prompt structure, gu
 
 ---
 
-## Notes
-
-I write about product thinking, AI, development learning, and the process of becoming a PM who can understand both strategy and implementation.
-
-<a href="https://cddictionary.tistory.com/">
-  <img src="https://img.shields.io/badge/Visit%20my%20blog-B8E0D2?style=for-the-badge" />
-</a>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&color=gradient&customColorList=12,20,24,30" width="100%" />
