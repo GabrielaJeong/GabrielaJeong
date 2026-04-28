@@ -1,117 +1,151 @@
-<h1 align="center">Hi, I'm Gabriela Jeong</h1>
-<h3 align="center">Product Manager building AI-native products with a hands-on mindset</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:fbrkqls94@gmail.com">Email</a> ·
-  <a href="https://cddictionary.tistory.com/">Blog</a> ·
-  <a href="https://www.linkedin.com/in/sochai-gabriela-jeong/">LinkedIn</a>
-</p>
+#  Hi, I'm Gabriela Jeong 🦝
 
----
+### Product Manager building tiny doors between ideas and real products
 
-## About Me
+<br/>
 
-I am a Product Manager with experience in B2C platforms, SaaS monetization, B2B enterprise projects, and AI-assisted product building.
+🧩 Product Strategy · 🤖 AI Prototyping · 💬 Character UX · 🛠️ Hands-on Building
 
-I have worked on products with hundreds of thousands of users, focusing on how products create value, generate revenue, and remain operationally sustainable. My work often sits between product strategy, UX, data, operations, and technical decision-making.
+<br/>
 
-Recently, I have been building **Folio**, an AI character chat product, to explore how PMs can use AI coding tools to move beyond documentation and directly validate product ideas through working prototypes.
+<a href="mailto:fbrkqls94@gmail.com">Email</a> ·
+<a href="https://cddictionary.tistory.com/">Blog</a> ·
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">LinkedIn</a>
 
----
-
-## What I Care About
-
-- Defining product problems from structural causes, not surface symptoms
-- Turning user data, CS logs, and interviews into product decisions
-- Designing monetization structures that connect user value and business sustainability
-- Building MVPs with clear scope, constraints, and validation goals
-- Using AI tools as a PM to prototype, test, and refine product ideas faster
+</div>
 
 ---
 
-## Current Project
+## 🗂️ About me
 
-### Folio — AI Character Chat Product
+I’m a Product Manager who likes turning vague ideas into usable product structures.
 
-Folio is an AI character chat product where users can talk with persona-based AI characters.
+I have worked on B2C platforms, SaaS monetization, B2B enterprise projects, no-code templates, and AI-powered prototypes.  
+These days, I’m especially interested in how PMs can use AI tools not just to write documents, but to actually build, test, and refine product experiences.
 
-I designed and built the product from planning to implementation, including:
+I care about products that make sense for users, for the business, and for the team that has to build them.
 
-- Character persona and worldbuilding structure
-- Prompt architecture for character consistency
-- Conversation memory design
-- Guardrails for safer AI responses
-- Admin features for character and content management
-- Frontend structure, design system, and deployment flow
-- AI-assisted development workflow using Cursor and Claude
+<br/>
 
-Through this project, I am exploring how PMs can work with AI tools not only to write documents, but also to build, test, and iterate real product experiences.
+> I like finding the structure behind messy problems.
 
 ---
 
-## Selected Product Experience
+## 🧪 Currently building: Folio
 
-### SaaS Monetization & Pricing Structure
+**Folio** is an AI character chat product where users can talk with persona-based AI characters.
 
-Redesigned the monetization structure of an interactive content SaaS platform by analyzing GA4 conversion data, user interviews, and plan-level drop-offs.
+It started from a small question:
 
-Key focus:
+> Can a PM build a real product experience with AI coding tools?
 
-- Reframed the issue from “price resistance” to “unclear free/paid value structure”
-- Redesigned Plus / Pro feature boundaries
-- Connected feature gating, rewarded ads, and plan differentiation
-- Worked on a revenue structure that could offset infrastructure and traffic costs
+So I tried building it myself — from product planning to prompt structure, frontend, admin, guardrails, and deployment.
 
-### B2B Enterprise Productization
+### What I worked on
 
-Led B2B enterprise projects using internal platform capabilities to create a new revenue stream.
+- 🧠 Character persona, tone, relationship, and worldbuilding structure
+- 💬 Prompt architecture for consistent character responses
+- 🧷 Guardrails for safer AI behavior
+- 🗃️ Conversation memory design
+- 🛠️ Admin features for managing characters and content
+- 🎨 Design system and frontend structure
+- 🤖 AI-assisted development workflow with Cursor and Claude
 
-Key focus:
-
-- Built an end-to-end delivery process from sales to release
-- Managed freelancer-client communication and QA
-- Connected enterprise content delivery with indirect product growth
-- Created a repeatable business model from existing product assets
-
-### No-code Image Customization Template
-
-Planned and launched a no-code image customization template to reduce repeated custom development.
-
-Key focus:
-
-- Separated creator and player experiences
-- Defined MVP scope based on actual delivery constraints
-- Reduced dependency on full custom development for repeated campaign formats
-- Learned the importance of GTM planning alongside product development
+Folio is my little lab for testing how PMs can become closer to builders.
 
 ---
 
-## Tools & Skills
+## 🧭 Product work I’ve done
+
+### 💸 SaaS monetization
+
+I worked on redesigning the revenue structure of an interactive content SaaS platform.
+
+The problem was not simply that users did not want to pay.  
+The real issue was that the difference between free and paid plans was not clear enough.
+
+So I worked on:
+
+- GA4 funnel and conversion analysis
+- User interviews about willingness to pay
+- Free / Plus / Pro feature boundary redesign
+- Rewarded ads and paid plan differentiation
+- Revenue structure connected to infrastructure cost
+
+---
+
+### 🏢 B2B enterprise projects
+
+I helped turn internal platform capabilities into B2B project revenue.
+
+Instead of treating every campaign as a one-off custom project, I worked on creating a repeatable delivery flow.
+
+I worked across:
+
+- Sales-to-release project process
+- Client and freelancer communication
+- QA and launch operations
+- Content delivery using existing platform assets
+- B2B revenue stream design
+
+---
+
+### 🖼️ No-code image customization template
+
+I planned and launched a no-code template for image customization campaigns.
+
+The goal was to reduce repeated custom development and let creators build campaign-style content more easily.
+
+This project taught me that building the product is only half of the work.  
+Without GTM, even a useful feature can stay hidden.
+
+---
+
+## 🧶 How I think about product
+
+I usually start with questions like these:
+
+- Is this really a price problem, or is the value structure unclear?
+- Is this CS issue caused by missing information, or by the wrong timing?
+- Do we need to add a feature, or remove complexity first?
+- Can this be solved with UX before asking for more development resources?
+- What decision will make the next decision easier?
+
+For me, PM work is not about making things look organized after the fact.  
+It is about finding the structure that helps people decide what to do next.
+
+---
+
+## 🧰 Tools I use
 
 ### Product & Data
-`Product Strategy` · `PRD` · `UX Planning` · `GA4` · `GTM` · `User Interview` · `Funnel Analysis` · `CS Log Analysis`
+`PRD` · `UX Planning` · `GA4` · `GTM` · `User Interview` · `Funnel Analysis` · `CS Log Analysis`
 
 ### AI & Prototyping
 `Cursor` · `Claude` · `Prompt Engineering` · `LLM Product Design` · `AI-assisted Development`
 
 ### Development Understanding
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `REST API` · `MySQL` · `MongoDB`
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `REST API`
 
 ### Collaboration
-`Figma` · `Notion` · `Slack` · `Postman` · `GitHub`
+`Figma` · `Notion` · `GitHub` · `Postman` · `Slack`
 
 ---
 
-## Blog
+## 🌱 Notes
 
-I write about product thinking, development learning, and the process of becoming a PM who understands both business and implementation.
+I write about product thinking, development learning, and the process of becoming a PM who understands both strategy and implementation.
 
-[Visit my blog](https://cddictionary.tistory.com/)
+📚 [Visit my blog](https://cddictionary.tistory.com/)
 
 ---
 
-## Contact
+<div align="center">
 
-For product, AI, or collaboration-related conversations:
+### Thanks for visiting my little product desk 🦝
 
-**Email**: fbrkqls94@gmail.com
+**Email** · fbrkqls94@gmail.com
+
+</div>
