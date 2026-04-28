@@ -1,22 +1,117 @@
-<h1 align="center">Hi 👋, I'm Gabriela Sochai Jeong</h1>
-<h3 align="center">Dreaming a full-stack Product Manager as a sub-developer💬</h3>
+<h1 align="center">Hi, I'm Gabriela Jeong</h1>
+<h3 align="center">Product Manager building AI-native products with a hands-on mindset</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielajeong&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielajeong" /> </p>
-
-- 🔭 I’m currently working on [Hapoom](https://hapoom.life)
-
-- 🌱 I’m currently learning **product managing**
-
-- 📝 I regularly write articles on [https://cddictionary.tistory.com/](https://cddictionary.tistory.com/)
-
-- 📫 How to reach me **fbrkqls94@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sochai (gabriela) jeong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sochai (gabriela) jeong" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:fbrkqls94@gmail.com">Email</a> ·
+  <a href="https://cddictionary.tistory.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/sochai-gabriela-jeong/">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielajeong&show_icons=true&locale=en&layout=compact" alt="gabrielajeong" /></p>
+## About Me
+
+I am a Product Manager with experience in B2C platforms, SaaS monetization, B2B enterprise projects, and AI-assisted product building.
+
+I have worked on products with hundreds of thousands of users, focusing on how products create value, generate revenue, and remain operationally sustainable. My work often sits between product strategy, UX, data, operations, and technical decision-making.
+
+Recently, I have been building **Folio**, an AI character chat product, to explore how PMs can use AI coding tools to move beyond documentation and directly validate product ideas through working prototypes.
+
+---
+
+## What I Care About
+
+- Defining product problems from structural causes, not surface symptoms
+- Turning user data, CS logs, and interviews into product decisions
+- Designing monetization structures that connect user value and business sustainability
+- Building MVPs with clear scope, constraints, and validation goals
+- Using AI tools as a PM to prototype, test, and refine product ideas faster
+
+---
+
+## Current Project
+
+### Folio — AI Character Chat Product
+
+Folio is an AI character chat product where users can talk with persona-based AI characters.
+
+I designed and built the product from planning to implementation, including:
+
+- Character persona and worldbuilding structure
+- Prompt architecture for character consistency
+- Conversation memory design
+- Guardrails for safer AI responses
+- Admin features for character and content management
+- Frontend structure, design system, and deployment flow
+- AI-assisted development workflow using Cursor and Claude
+
+Through this project, I am exploring how PMs can work with AI tools not only to write documents, but also to build, test, and iterate real product experiences.
+
+---
+
+## Selected Product Experience
+
+### SaaS Monetization & Pricing Structure
+
+Redesigned the monetization structure of an interactive content SaaS platform by analyzing GA4 conversion data, user interviews, and plan-level drop-offs.
+
+Key focus:
+
+- Reframed the issue from “price resistance” to “unclear free/paid value structure”
+- Redesigned Plus / Pro feature boundaries
+- Connected feature gating, rewarded ads, and plan differentiation
+- Worked on a revenue structure that could offset infrastructure and traffic costs
+
+### B2B Enterprise Productization
+
+Led B2B enterprise projects using internal platform capabilities to create a new revenue stream.
+
+Key focus:
+
+- Built an end-to-end delivery process from sales to release
+- Managed freelancer-client communication and QA
+- Connected enterprise content delivery with indirect product growth
+- Created a repeatable business model from existing product assets
+
+### No-code Image Customization Template
+
+Planned and launched a no-code image customization template to reduce repeated custom development.
+
+Key focus:
+
+- Separated creator and player experiences
+- Defined MVP scope based on actual delivery constraints
+- Reduced dependency on full custom development for repeated campaign formats
+- Learned the importance of GTM planning alongside product development
+
+---
+
+## Tools & Skills
+
+### Product & Data
+`Product Strategy` · `PRD` · `UX Planning` · `GA4` · `GTM` · `User Interview` · `Funnel Analysis` · `CS Log Analysis`
+
+### AI & Prototyping
+`Cursor` · `Claude` · `Prompt Engineering` · `LLM Product Design` · `AI-assisted Development`
+
+### Development Understanding
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `REST API` · `MySQL` · `MongoDB`
+
+### Collaboration
+`Figma` · `Notion` · `Slack` · `Postman` · `GitHub`
+
+---
+
+## Blog
+
+I write about product thinking, development learning, and the process of becoming a PM who understands both business and implementation.
+
+[Visit my blog](https://cddictionary.tistory.com/)
+
+---
+
+## Contact
+
+For product, AI, or collaboration-related conversations:
+
+**Email**: fbrkqls94@gmail.com
