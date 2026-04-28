@@ -1,151 +1,164 @@
 <div align="center">
 
-#  Hi, I'm Gabriela Jeong 🦝
-
-### Product Manager building tiny doors between ideas and real products
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Gabriela%20Jeong&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&desc=Product%20Manager%20who%20builds%20with%20AI&descAlign=50&descAlignY=62" width="100%" />
 
 <br/>
 
-🧩 Product Strategy · 🤖 AI Prototyping · 💬 Character UX · 🛠️ Hands-on Building
+<a href="mailto:fbrkqls94@gmail.com">
+  <img src="https://img.shields.io/badge/Email-fbrkqls94%40gmail.com-F8C8DC?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://cddictionary.tistory.com/">
+  <img src="https://img.shields.io/badge/Blog-cddictionary.tistory.com-B8E0D2?style=for-the-badge&logo=tistory&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-AEC6FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-<a href="mailto:fbrkqls94@gmail.com">Email</a> ·
-<a href="https://cddictionary.tistory.com/">Blog</a> ·
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">LinkedIn</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7D8BFF&center=true&vCenter=true&width=700&lines=Product+Manager+with+a+hands-on+builder+mindset;Building+AI-native+products%2C+systems%2C+and+character+experiences;Interested+in+monetization%2C+UX%2C+worldbuilding%2C+and+prompt+design" />
 
 </div>
 
 ---
 
-## 🗂️ About me
+## About Me
 
-I’m a Product Manager who likes turning vague ideas into usable product structures.
+I’m a Product Manager who likes turning vague ideas into real product structures.
 
-I have worked on B2C platforms, SaaS monetization, B2B enterprise projects, no-code templates, and AI-powered prototypes.  
-These days, I’m especially interested in how PMs can use AI tools not just to write documents, but to actually build, test, and refine product experiences.
+I work across product strategy, monetization, UX planning, and AI-assisted building.  
+These days, I’m especially interested in how PMs can move beyond documentation and directly build, test, and refine product ideas with AI tools.
 
-I care about products that make sense for users, for the business, and for the team that has to build them.
+I like products that make sense for users, for the business, and for the team that has to build them.
 
 <br/>
 
-> I like finding the structure behind messy problems.
+<div align="center">
+
+### Little keywords about me
+
+<img src="https://img.shields.io/badge/Product%20Strategy-F6C6EA?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Prototyping-C9E4FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Character%20UX-D8C3FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Monetization-BFE3C0?style=flat-square" />
+<img src="https://img.shields.io/badge/Worldbuilding-FFD6A5?style=flat-square" />
+<img src="https://img.shields.io/badge/Hands--on%20PM-FFB7B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Design-CDE7BE?style=flat-square" />
+<img src="https://img.shields.io/badge/User%20Insight-B5EAD7?style=flat-square" />
+
+</div>
 
 ---
 
-## 🧪 Currently building: Folio
+## Currently Building
 
-**Folio** is an AI character chat product where users can talk with persona-based AI characters.
+### Folio
 
-It started from a small question:
+Folio is an AI character chat product where users can talk with persona-based AI characters.
+
+It started from one question:
 
 > Can a PM build a real product experience with AI coding tools?
 
-So I tried building it myself — from product planning to prompt structure, frontend, admin, guardrails, and deployment.
+So I designed and built it myself, from product planning to prompt structure, guardrails, admin features, frontend structure, and deployment flow.
 
-### What I worked on
-
-- 🧠 Character persona, tone, relationship, and worldbuilding structure
-- 💬 Prompt architecture for consistent character responses
-- 🧷 Guardrails for safer AI behavior
-- 🗃️ Conversation memory design
-- 🛠️ Admin features for managing characters and content
-- 🎨 Design system and frontend structure
-- 🤖 AI-assisted development workflow with Cursor and Claude
-
-Folio is my little lab for testing how PMs can become closer to builders.
+#### What I’m working on
+- Character persona, tone, and worldbuilding
+- Prompt architecture for response consistency
+- Conversation memory design
+- Guardrails for safer AI behavior
+- Admin tools for character management
+- Frontend structure and design system
+- AI-assisted development workflow with Cursor and Claude
 
 ---
 
-## 🧭 Product work I’ve done
+## Product Interests
 
-### 💸 SaaS monetization
-
-I worked on redesigning the revenue structure of an interactive content SaaS platform.
-
-The problem was not simply that users did not want to pay.  
-The real issue was that the difference between free and paid plans was not clear enough.
-
-So I worked on:
-
-- GA4 funnel and conversion analysis
-- User interviews about willingness to pay
-- Free / Plus / Pro feature boundary redesign
-- Rewarded ads and paid plan differentiation
-- Revenue structure connected to infrastructure cost
-
----
-
-### 🏢 B2B enterprise projects
-
-I helped turn internal platform capabilities into B2B project revenue.
-
-Instead of treating every campaign as a one-off custom project, I worked on creating a repeatable delivery flow.
-
-I worked across:
-
-- Sales-to-release project process
-- Client and freelancer communication
-- QA and launch operations
-- Content delivery using existing platform assets
-- B2B revenue stream design
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Monetization</h3>
+      <p>
+        I like solving product problems through pricing, feature boundaries,
+        and revenue structures that connect user value with business sustainability.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Product Design</h3>
+      <p>
+        I’m interested in LLM-based UX, prompt structure, memory design,
+        and how AI changes the way PMs prototype and build products.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Character Experience</h3>
+      <p>
+        I love products where personality, tone, story, and interaction design
+        all matter at the same time.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🖼️ No-code image customization template
+## Tech & Tools
 
-I planned and launched a no-code template for image customization campaigns.
-
-The goal was to reduce repeated custom development and let creators build campaign-style content more easily.
-
-This project taught me that building the product is only half of the work.  
-Without GTM, even a useful feature can stay hidden.
-
----
-
-## 🧶 How I think about product
-
-I usually start with questions like these:
-
-- Is this really a price problem, or is the value structure unclear?
-- Is this CS issue caused by missing information, or by the wrong timing?
-- Do we need to add a feature, or remove complexity first?
-- Can this be solved with UX before asking for more development resources?
-- What decision will make the next decision easier?
-
-For me, PM work is not about making things look organized after the fact.  
-It is about finding the structure that helps people decide what to do next.
-
----
-
-## 🧰 Tools I use
-
-### Product & Data
-`PRD` · `UX Planning` · `GA4` · `GTM` · `User Interview` · `Funnel Analysis` · `CS Log Analysis`
+### Product
+<p>
+  <img src="https://img.shields.io/badge/PRD-F8C8DC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%20Planning-B8E0D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GA4-AEC6FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTM-D8C3FF?style=for-the-badge&logo=googletagmanager&logoColor=white" />
+  <img src="https://img.shields.io/badge/User%20Interview-FFD6A5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Funnel%20Analysis-B5EAD7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CS%20Log%20Analysis-CDE7BE?style=for-the-badge" />
+</p>
 
 ### AI & Prototyping
-`Cursor` · `Claude` · `Prompt Engineering` · `LLM Product Design` · `AI-assisted Development`
+<p>
+  <img src="https://img.shields.io/badge/Cursor-C9E4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-F6C6EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FFB7B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Product%20Design-BFE3C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--assisted%20Development-D8C3FF?style=for-the-badge" />
+</p>
 
-### Development Understanding
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `REST API`
+### Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222" />
+  <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### Collaboration
-`Figma` · `Notion` · `GitHub` · `Postman` · `Slack`
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Notes
+## Notes
 
-I write about product thinking, development learning, and the process of becoming a PM who understands both strategy and implementation.
+I write about product thinking, AI, development learning, and the process of becoming a PM who can understand both strategy and implementation.
 
-📚 [Visit my blog](https://cddictionary.tistory.com/)
+<a href="https://cddictionary.tistory.com/">
+  <img src="https://img.shields.io/badge/Visit%20my%20blog-B8E0D2?style=for-the-badge" />
+</a>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my little product desk 🦝
-
-**Email** · fbrkqls94@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&color=gradient&customColorList=12,20,24,30" width="100%" />
 
 </div>
